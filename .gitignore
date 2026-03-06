@@ -1,0 +1,4 @@
+odds_scraping/__pycache__
+odds_scraping/*.pyc
+odds_scraping/*.jsonl
+odds_scraping/cron_log.txt
